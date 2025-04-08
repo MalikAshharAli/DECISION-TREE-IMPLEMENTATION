@@ -17,48 +17,52 @@
 This repository contains a comprehensive implementation and visualization of a Decision Tree Classifier using Scikit-learn. The project demonstrates how decision trees can be used to classify or predict outcomes based on a chosen dataset.
 
   Project Objectives
-Build a Decision Tree model using Scikit-learn
+  
+1.Build a Decision Tree model using Scikit-learn
 
-Visualize the structure of the Decision Tree
+2.Visualize the structure of the Decision Tree
 
-Evaluate and analyze the model’s performance
+3.Evaluate and analyze the model’s performance
 
-Gain insights from the decision-making process of the model
+4.Gain insights from the decision-making process of the model
 
-  Contents
-decision_tree.ipynb: Jupyter Notebook containing:
+  Contents 
+  
+1.decision_tree.ipynb: Jupyter Notebook containing:
 
-Data preprocessing
+2.Data preprocessing
 
-Model training and evaluation
+3.Model training and evaluation
 
-Tree visualization
+4.Tree visualization
 
-Result analysis
-
-Sample dataset (or mention your dataset source)
+5.Result analysis
 
   Visualization
+  
 The project includes visual representations of the trained decision tree to better understand how features are used for making decisions.
 
   Tools & Technologies
-Python
+  
+1.Python
 
-Scikit-learn
+2.Scikit-learn
 
-Pandas
+3.Pandas
 
-Matplotlib / Seaborn
+4.Matplotlib / Seaborn
 
-Graphviz / Plotly (for visualization, if used)
+5.Graphviz / Plotly ( for Visualization )
 
   Deliverables
-A clean and well-documented notebook
+  
+1.A clean and well-documented notebook
 
-Interactive and graphical visualization of the decision tree
+2.Interactive and graphical visualization of the decision tree
 
-Performance metrics and model interpretation
+3.Performance metrics and model interpretation
 
   Use Case
+  
 This implementation can be used as a starting point for classification problems using decision trees and is ideal for learning, academic purposes, or as a baseline for more advanced models.
 
